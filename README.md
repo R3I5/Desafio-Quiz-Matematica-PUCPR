@@ -2,8 +2,6 @@
 Projeto acadêmico da PUCPR: Quiz em Python com 10 questões sobre restrições e operações matemáticas no conjunto dos números reais.
 # Desafio de Raciocínio Matemático com Python | PUCPR
 
-![Logo PUCPR](https://i.imgur.com/g0G4m5T.png)
-
 Este repositório contém a resolução do "Desafio de Quiz Matemática em Python", um projeto acadêmico desenvolvido para a disciplina de Raciocínio Matemático da PUCPR.
 
 ## 🎯 Objetivo do Projeto
@@ -24,39 +22,12 @@ O projeto consiste em:
 4.  [cite_start]**(Opcional) Interface Visual:** Entrega opcional de uma interface em HTML/CSS para apresentar o quiz de forma mais interativa e organizada. 
 5.  [cite_start]**Vídeo Explicativo:** Gravação de um vídeo para demonstrar o projeto e justificar cada uma das respostas, explicando as restrições matemáticas. 
 
-## 🛠️ Como Executar o Projeto
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/Desafio-Quiz-Matematica-PUCPR.git](https://github.com/seu-usuario/Desafio-Quiz-Matematica-PUCPR.git)
-    ```
-2.  **Navegue até a pasta do projeto:**
-    ```bash
-    cd Desafio-Quiz-Matematica-PUCPR
-    ```
-3.  **Para o script Python:**
-    * Execute o arquivo `.py` em um ambiente Python para ver as questões no terminal.
-        ```bash
-        python nome_do_arquivo.py
-        ```
-4.  **Para a interface (se aplicável):**
-    * Abra o arquivo `index.html` em qualquer navegador web.
-
-## 🏆 Critérios de Avaliação
-
-O projeto foi avaliado com base nos seguintes critérios:
-| Critério | Pontuação |
-| :--- | :---: |
-| Complexidade e variedade das questões | 1,0 |
-| Código funcional e bem estruturado | 0,5 |
-| Acertividade matemática e coerência | 0,5 |
-| **Bônus:** Interface visual criativa (HTML/CSS) | +0,5 |
 
 ## 👨‍💻 Autor
 
-**[SEU NOME COMPLETO]**
-* **Curso:** [Seu Curso]
+**João Victor dos Reis da Silva**
+* **Curso:** Engenharia de software
 * **Universidade:** Pontifícia Universidade Católica do Paraná (PUCPR)
-* **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+* **GitHub:** https://github.com/R3I5
 
 ---
