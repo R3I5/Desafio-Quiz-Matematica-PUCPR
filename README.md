@@ -6,21 +6,21 @@ Este repositório contém a resolução do "Desafio de Quiz Matemática em Pytho
 
 ## 🎯 Objetivo do Projeto
 
-[cite_start]O objetivo principal deste desafio é a criação de um quiz com 10 questões em Python que exploram as **restrições matemáticas naturais**.  [cite_start]O foco é utilizar estruturas condicionais (`if...else`) para validar operações matemáticas que, de outra forma, resultariam em erros ou valores impossíveis no conjunto dos números reais. 
+O objetivo principal deste desafio é a criação de um quiz com 10 questões em Python que exploram as **restrições matemáticas naturais**. O foco é utilizar estruturas condicionais (`if...else`) para validar operações matemáticas que, de outra forma, resultariam em erros ou valores impossíveis no conjunto dos números reais. 
 
 As principais restrições abordadas são:
-* [cite_start]A impossibilidade da divisão por zero. 
-* [cite_start]A não existência de raiz de índice par para números negativos. 
-* [cite_start]A impossibilidade de calcular o logaritmo de números negativos ou de zero. 
+* A impossibilidade da divisão por zero. 
+* A não existência de raiz de índice par para números negativos. 
+* A impossibilidade de calcular o logaritmo de números negativos ou de zero. 
 
 ## 📝 Estrutura do Desafio
 
 O projeto consiste em:
-1.  [cite_start]**10 Questões em Python:** Um arquivo `.py` contendo 10 trechos de código. 
-2.  [cite_start]**Lacunas para Completar:** Cada questão possui uma lacuna na condição do `if` e outra na mensagem de erro do `else`, projetadas para serem preenchidas, testando o conhecimento sobre a restrição matemática correspondente. 
-3.  [cite_start]**Mensagens de Erro Claras:** O bloco `else` de cada questão deve fornecer uma explicação precisa do motivo pelo qual a operação matemática é inválida. 
-4.  [cite_start]**(Opcional) Interface Visual:** Entrega opcional de uma interface em HTML/CSS para apresentar o quiz de forma mais interativa e organizada. 
-5.  [cite_start]**Vídeo Explicativo:** Gravação de um vídeo para demonstrar o projeto e justificar cada uma das respostas, explicando as restrições matemáticas. 
+1.  **10 Questões em Python:** Um arquivo `.py` contendo 10 trechos de código. 
+2.  **Lacunas para Completar:** Cada questão possui uma lacuna na condição do `if` e outra na mensagem de erro do `else`, projetadas para serem preenchidas, testando o conhecimento sobre a restrição matemática correspondente. 
+3.  **Mensagens de Erro Claras:** O bloco `else` de cada questão deve fornecer uma explicação precisa do motivo pelo qual a operação matemática é inválida. 
+4.  **(Opcional) Interface Visual:** Entrega opcional de uma interface em HTML/CSS para apresentar o quiz de forma mais interativa e organizada. 
+5.  **Vídeo Explicativo:** Gravação de um vídeo para demonstrar o projeto e justificar cada uma das respostas, explicando as restrições matemáticas. 
 
 
 ## 👨‍💻 Autor
